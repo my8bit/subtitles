@@ -19,10 +19,22 @@ Example for the _De Fractie_ series
 1. Please [install](https://chrome.google.com/webstore/detail/extra-subtitles-for-serie/pnonkhpifnklabpffjabobckaedgmlci) the extension.
 2. Open the [page](https://www.npo.nl/de-fractie/VPWON_1261033#episode) with episodes list.
 3. Choose the _Seizoen 1_ from dropdown menu.
-4. Choose the episode, for instance [first](https://www.npo.nl/de-fractie/12-01-2015/VPWON_1205114).
-5. Right-click on player and choose the _View Frame Source_.
+
+![season](https://i.imgur.com/CzirCi6.png)
+
+4. Choose the episode, for instance [first](https://www.npo.nl/de-fractie/12-01-2015/VPWON_1205114). (Some of the episodes of this series are not translated yet, but [first](https://www.npo.nl/de-fractie/12-01-2015/VPWON_1205114) is defenately is.)
+5. Open a context menu inside player (using right-click) and choose the _View Frame Source_.
+
+![context menu](https://i.imgur.com/oKEyFDg.png)
+
 6. Remove the _view-source:_ part from URL. This will open player in full screen mode.
+
+![view source url](https://i.imgur.com/dnnPkHH.png) ![good url](https://i.imgur.com/90YFFoG.png)
+
 7. Move cusros to right upper corner and click to subtitle icon. There will be English option in list.
+
+![subtitles](https://i.imgur.com/o1Kv6wA.png)
+
 8. Enjoy!
 
 ## 🚧 I do not see any subtitles besides Dutch.
@@ -33,6 +45,6 @@ It's possible that translation is absent for particular series or show. Please f
 
 Yes, please refer to this [section](https://github.com/my8bit/Subtitle-translations-for-series-on-NPO#) with deteiled desription.
 
-## 👏 Credits
+## 👏 Credits.
 
 _Icon based on TV by Gregor Cresnar from the Noun Project_
