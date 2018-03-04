@@ -1,0 +1,22 @@
+{
+  "name": "Extra subtitles for series on NPO",
+  "description": "Using this extension you can add the subtitles for extra languages for TV series on NPO.",
+  "version": "1.0",
+  "web_accessible_resources": [
+    "extend-titles.js"
+  ],
+  "author": "Ihor Pavlenko <mail@my8bit.name>",
+  "homepage_url": "",
+  "content_scripts": [
+    {
+      "run_at": "document_end",
+      "matches": ["https://start-player.npo.nl/*"],
+      "js": ["inject-extender.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "manifest_version": 2
+}
