@@ -1,6 +1,6 @@
 # Extra subtitles for series on NPO
 
-[![Install from Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/pnonkhpifnklabpffjabobckaedgmlci/)
+[![Install from Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/extra-subtitles-for-serie/pnonkhpifnklabpffjabobckaedgmlci)
 
 
 Using this extension you can add the subtitles for extra languages for TV series on NPO. For more information about the list of languages and TV series that are supported please refer to the [List of series](https://github.com/my8bit/Subtitle-translations-for-series-on-NPO) 
@@ -16,7 +16,7 @@ All rights belong to their respective owners.
 
 Example for the _De Fractie_ series
 
-1. Please [install](https://chrome.google.com/webstore/detail/pnonkhpifnklabpffjabobckaedgmlci/) the extension.
+1. Please [install](https://chrome.google.com/webstore/detail/extra-subtitles-for-serie/pnonkhpifnklabpffjabobckaedgmlci) the extension.
 2. Open the [page](https://www.npo.nl/de-fractie/VPWON_1261033#episode) with episodes list.
 3. Choose the _Seizoen 1_ from dropdown menu.
 4. Choose the episode, for instance [first](https://www.npo.nl/de-fractie/12-01-2015/VPWON_1205114).

@@ -1,12 +1,12 @@
 {
   "name": "Extra subtitles for series on NPO",
   "description": "Using this extension you can add the subtitles for extra languages for TV series on NPO.",
-  "version": "1.0",
+  "version": "1.0.1",
   "web_accessible_resources": [
     "extend-titles.js"
   ],
   "author": "Ihor Pavlenko <mail@my8bit.name>",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/my8bit/subtitles",
   "content_scripts": [
     {
       "run_at": "document_end",
